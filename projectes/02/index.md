@@ -1,21 +1,14 @@
-**Project 2  Light Up A Single LED**
+# Project 2  Light Up A Single LED
 
-**1. Description**
+## Descripció
 
-Micro:bit motherboard consists of 25 light-emitting diodes, 5 pcs in a group, which correspond to x and y axis, forging a 5*5 matrix. Moreover, every diode locates at the point of x and y axis. 
+La placa base Micro:bit consta de 25 diodos emisores de luz, 5 unidades en un grupo, que corresponden a los ejes xey, forjando una matriz de 5*5. Además, cada diodo se ubica en el punto de los ejes x e y.
 
-Virtually, we could control an LED by setting coordinate points. For instance, set coordinate point（0，0）to turn on the LED at row 1 and column 1; light up LED at the row 1 and column 3, we could set （2，0) and so on.
-
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
+Virtualmente, podríamos controlar un LED estableciendo puntos de coordenadas. Por ejemplo, establezca el punto de coordenadas (0,0) para encender el LED en la fila 1 y la columna 1; Encienda el LED en la fila 1 y la columna 3, podríamos configurar (2, 0) y así sucesivamente.
 
 ![alt_text](images/image1.png "image_tooltip")
 
-
-**2. Components Needed**
-
+## Components necessaris
 
 <table>
   <tr>
