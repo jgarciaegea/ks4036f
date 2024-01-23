@@ -2,9 +2,11 @@
 
 ## Descripció
 
-La placa base Micro:bit consta de 25 diodos emisores de luz, 5 unidades en un grupo, que corresponden a los ejes xey, forjando una matriz de 5*5. Además, cada diodo se ubica en el punto de los ejes x e y.
+La placa base Micro:bit consta de 25 díodes emissors de llum, 5 peces en un grup, que corresponen als eixos x i y, forjant una matriu de 5 * 5. A més, cada díode es localitza en el punt dels eixos x i y.
 
-Virtualmente, podríamos controlar un LED estableciendo puntos de coordenadas. Por ejemplo, establezca el punto de coordenadas (0,0) para encender el LED en la fila 1 y la columna 1; Encienda el LED en la fila 1 y la columna 3, podríamos configurar (2, 0) y así sucesivamente.
+Virtualment, podem controlar un LED establint punts de coordenades. Per exemple:
+- Establir el punt de coordenades (0，0) permet encendre el LED a la fila 1 i la columna 1.
+- Encendre el LED a la fila 1 i la columna 3, s'estableix amb les coordenades (2，0).
 
 ![alt_text](images/image1.png "image_tooltip")
 
